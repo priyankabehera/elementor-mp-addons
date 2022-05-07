@@ -1,0 +1,20 @@
+.elementor-widget-mp_single_card{
+    border: 1px solid #010101;
+    padding: 37px;
+    text-align: center;
+}
+
+
+.elementor-widget-mp_single_card a{
+    padding: 10px;
+    background-color: #143F6B;
+    color: #F6F54D;
+    margin: 30px 60px;
+    text-align: center;
+    width: 100%;
+}
+
+.elementor-widget-mp_single_card .elementor-widget-container{
+    display: flex;
+    flex-wrap: wrap;
+}
